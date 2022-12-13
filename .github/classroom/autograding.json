@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "student: name",
+      "setup": "",
+      "run": "python3 -m unittest test_student_name",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "student: average",
+      "setup": "",
+      "run": "python3 -m unittest test_student_average",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "student: topics",
+      "setup": "",
+      "run": "python3 -m unittest test_student_topics",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "student: report",
+      "setup": "",
+      "run": "python3 -m unittest test_student_report",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "class: len & repr",
+      "setup": "",
+      "run": "python3 -m unittest test_class_len_repr",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "class: get student",
+      "setup": "",
+      "run": "python3 -m unittest test_class_get_student",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "class: load from file",
+      "setup": "",
+      "run": "python3 -m unittest test_class_load_from_file",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "class: load grades from file",
+      "setup": "",
+      "run": "python3 -m unittest test_class_load_grades_from_file",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "class: catalog",
+      "setup": "",
+      "run": "python3 -m unittest test_class_catalog",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "class: averages",
+      "setup": "",
+      "run": "python3 -m unittest test_class_compute_averages",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
